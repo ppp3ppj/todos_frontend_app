@@ -1,4 +1,5 @@
 # create-svelte
+##* This Project is use bun please replace npm to bun i will chang readme.md later
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
